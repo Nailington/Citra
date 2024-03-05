@@ -1,3 +1,6 @@
+# Obtained from https://web.archive.org/web/20240304192708/https://codeload.github.com/citra-emu/citra/zip/refs/heads/master
+If you don't trust that the repo isn't modified, you can download it directly from the above link (but it isn't modified, except for THIS README.md file to add this note)
+
 <h1 align="center">
   <br>
   <a href="https://citra-emu.org/"><img src="https://raw.githubusercontent.com/citra-emu/citra-assets/master/Main/citra_logo.svg" alt="Citra" width="200"></a>
